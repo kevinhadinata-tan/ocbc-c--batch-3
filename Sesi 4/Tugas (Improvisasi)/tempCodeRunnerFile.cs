@@ -1,0 +1,2 @@
+
+        char[] hasil = word.ToCharArray();

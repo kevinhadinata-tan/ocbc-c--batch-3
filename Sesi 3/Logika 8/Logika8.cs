@@ -2,7 +2,7 @@ using System;
 
 public class Logika8
 {
-    public static async void Main(String[] args)
+    public static void Main(String[] args)
     {
         int i = 0;
 
