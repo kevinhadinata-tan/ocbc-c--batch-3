@@ -1,0 +1,16 @@
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.csproj.AssemblyReference.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.AssemblyInfoInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.AssemblyInfo.cs
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.csproj.CoreCompileInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\bin\Debug\net5.0\Konsep.exe
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\bin\Debug\net5.0\Konsep.deps.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\bin\Debug\net5.0\Konsep.runtimeconfig.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\bin\Debug\net5.0\Konsep.runtimeconfig.dev.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\bin\Debug\net5.0\Konsep.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\bin\Debug\net5.0\ref\Konsep.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\bin\Debug\net5.0\Konsep.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\ref\Konsep.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Konsep\obj\Debug\net5.0\Konsep.genruntimeconfig.cache

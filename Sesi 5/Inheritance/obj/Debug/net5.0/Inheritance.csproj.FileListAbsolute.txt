@@ -1,0 +1,16 @@
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

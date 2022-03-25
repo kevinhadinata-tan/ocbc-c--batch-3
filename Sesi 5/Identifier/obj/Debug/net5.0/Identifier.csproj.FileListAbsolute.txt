@@ -1,0 +1,16 @@
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.csproj.AssemblyReference.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.AssemblyInfoInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.AssemblyInfo.cs
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.csproj.CoreCompileInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\bin\Debug\net5.0\Identifier.exe
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\bin\Debug\net5.0\Identifier.deps.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\bin\Debug\net5.0\Identifier.runtimeconfig.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\bin\Debug\net5.0\Identifier.runtimeconfig.dev.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\bin\Debug\net5.0\Identifier.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\bin\Debug\net5.0\ref\Identifier.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\bin\Debug\net5.0\Identifier.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\ref\Identifier.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Identifier\obj\Debug\net5.0\Identifier.genruntimeconfig.cache

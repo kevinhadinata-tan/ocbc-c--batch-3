@@ -1,0 +1,16 @@
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.csproj.AssemblyReference.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.AssemblyInfoInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.AssemblyInfo.cs
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.csproj.CoreCompileInputs.cache
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\bin\Debug\net5.0\Overriding.exe
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\bin\Debug\net5.0\Overriding.deps.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\bin\Debug\net5.0\Overriding.runtimeconfig.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\bin\Debug\net5.0\Overriding.runtimeconfig.dev.json
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\bin\Debug\net5.0\Overriding.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\bin\Debug\net5.0\ref\Overriding.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\bin\Debug\net5.0\Overriding.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\ref\Overriding.dll
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.pdb
+D:\Materi Pembelajaran Pelatihan Kerja\OCBC NISP\Sesi 5\Polimorfisme\Overriding\obj\Debug\net5.0\Overriding.genruntimeconfig.cache
